@@ -40,6 +40,9 @@
     <InternalsVisibleToTest Include="Roslyn.VisualStudio.Test.Utilities2" />
     <InternalsVisibleToTypeScript Include="Microsoft.VisualStudio.LanguageServices.TypeScript" />
     <InternalsVisibleToTypeScript Include="Microsoft.CodeAnalysis.TypeScript.EditorFeatures" />
+    <InternalsVisibleToTypeScript Include="Microsoft.VisualStudio.LanguageServices.Remote" />
+    <InternalsVisibleToTypeScript Include="Microsoft.VisualStudio.LanguageServices.Remote.CSharp" />
+    <InternalsVisibleToTypeScript Include="Microsoft.VisualStudio.LanguageServices.Remote.TypeScript" />
     <InternalsVisibleToFSharp Include="FSharp.Editor" />
     <InternalsVisibleToFSharp Include="FSharp.LanguageService" />
   </ItemGroup>

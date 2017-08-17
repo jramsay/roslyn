@@ -113,6 +113,9 @@
     <InternalsVisibleToTypeScript Include="Microsoft.CodeAnalysis.TypeScript.EditorFeatures" />
     <InternalsVisibleToTypeScript Include="Microsoft.VisualStudio.LanguageServices.TypeScript" />
     <InternalsVisibleToTypeScript Include="Roslyn.Services.Editor.TypeScript.UnitTests" />
+    <InternalsVisibleToTypeScript Include="Microsoft.VisualStudio.LanguageServices.Remote" />
+    <InternalsVisibleToTypeScript Include="Microsoft.VisualStudio.LanguageServices.Remote.CSharp" />
+    <InternalsVisibleToTypeScript Include="Microsoft.VisualStudio.LanguageServices.Remote.TypeScript" />
     <InternalsVisibleToTypeScript Include="ManagedSourceCodeAnalysis" />
     <InternalsVisibleToTypeScript Include="CodeAnalysis" />
     <InternalsVisibleToTypeScript Include="StanCore" />
